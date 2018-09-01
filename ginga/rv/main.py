@@ -111,6 +111,8 @@ plugins = [
           ptype='local'),
     Bunch(module='TVMask', workspace='dialogs', category='Analysis',
           ptype='local'),
+    Bunch(module='DQMask', workspace='dialogs', category='Analysis',
+          ptype='local'),
     Bunch(module='WCSMatch', tab='WCSMatch', workspace='right', start=False,
           menu="WCS Match [G]", category='Analysis', ptype='global'),
     Bunch(module='Command', tab='Command', workspace='lleft', start=False,

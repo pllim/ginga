@@ -76,6 +76,7 @@ is the graphical way to start an operation.
    plugins_local/wcsaxes
    plugins_local/tvmark
    plugins_local/tvmask
+   plugins_local/dqmask
    plugins_local/blink
    plugins_local/lineprofile
    plugins_local/pixtable
